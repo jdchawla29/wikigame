@@ -1,5 +1,5 @@
 # wikigame
-making llms play wikigame
+making llms play wikigame  
 this is a living document that maintains the current progress
 
 ## navigation game desc
